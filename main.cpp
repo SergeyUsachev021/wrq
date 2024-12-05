@@ -13,7 +13,7 @@ void ShowMenu() {
     std::cout << "5. Удалить фигуру\n";
     std::cout << "0. Выход\n";
 }
-
+//wqe
 int main() {
     Controller controller;
     int choice;
